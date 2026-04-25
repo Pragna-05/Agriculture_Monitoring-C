@@ -1,4 +1,3 @@
-farm-resource-crud-management
 📘 Farm Resource Management System (CRUD using Linked List / Graph Concept)
 
 
