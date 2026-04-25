@@ -1,0 +1,8 @@
+
+---
+
+##  Compilation & Execution
+
+```bash
+gcc main.c -o farm
+./farm
